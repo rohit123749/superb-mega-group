@@ -5,14 +5,14 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAdkn-l2OhgNgecixOgFlaAFkt35eoJRgw",
-  authDomain: "superb-mega-group-2025f.firebaseapp.com",
-  projectId: "superb-mega-group-2025f",
-  storageBucket: "superb-mega-group-2025f.firebasestorage.app",
-  messagingSenderId: "643579814938",
-  appId: "1:643579814938:web:663c666cddb899aa619da3",
-  measurementId: "G-WSYHMWR9L8"
-};;
+  apiKey: "AIzaSyAsBHCBg9HnJM0MfQsl4zD0k0zBIKJTIR4",
+  authDomain: "superb-mega-group-77537.firebaseapp.com",
+  projectId: "superb-mega-group-77537",
+  storageBucket: "superb-mega-group-77537.firebasestorage.app",
+  messagingSenderId: "140109945016",
+  appId: "1:140109945016:web:67fedb6813608ef161fc4d",
+  measurementId: "G-ETVQFHPMV8"
+};
 
 const app = initializeApp(firebaseConfig);
 
